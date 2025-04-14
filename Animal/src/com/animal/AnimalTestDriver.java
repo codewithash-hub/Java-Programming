@@ -10,10 +10,12 @@ public class AnimalTestDriver {
 		System.out.println(cat.name);
 		System.out.println(cat.age);
 		System.out.println(cat.type);
+		cat.makeSound();
 		
 		System.out.println(dog.name);
 		System.out.println(dog.age);
-		System.out.println(dog.type);
+		dog.makeSound();
+		
 		
 	}
 

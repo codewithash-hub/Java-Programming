@@ -10,4 +10,8 @@ public class Animal {
 		this.age = age;
 		this.type = type;
 	}
+	
+	public void makeSound() {
+		System.out.println(name + " is making a sound!!!");
+	}
 }
