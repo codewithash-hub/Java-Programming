@@ -27,7 +27,6 @@ public class Raise {
 	public static double calculateBonus(double salary) {
 		final double BONUS_AMOUNT = 50.00;
 		salary = salary + BONUS_AMOUNT;
-		
 		return salary;
 	}
 }
