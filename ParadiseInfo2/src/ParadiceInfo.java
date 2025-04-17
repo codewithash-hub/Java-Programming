@@ -15,7 +15,7 @@ public class ParadiceInfo {
 		
 		savings = computeDiscountInfo(price, discount);
 		
-		System.out.println("Special this week on any service ober " + price);
+		System.out.println("Special this week on any service over " + price);
 		System.out.println("Discount of " + discount + " percent");
 		System.out.println("That's a savings of at least R" + savings);
 	}
