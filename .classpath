@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Animal/src"/>
+	<classpathentry kind="src" path="displayAddress/src"/>
+	<classpathentry kind="src" path="Items/src"/>
+	<classpathentry kind="src" path="Lens/src"/>
+	<classpathentry kind="src" path="ParadiseInfo/src"/>
+	<classpathentry kind="src" path="ParadiseInfo2/src"/>
+	<classpathentry kind="src" path="Passport/src"/>
+	<classpathentry kind="src" path="predictRaise/src"/>
+	<classpathentry kind="src" path="predictRaiseV2/src"/>
+	<classpathentry kind="src" path="Shortcuts/src"/>
+	<classpathentry kind="src" path="test/src"/>
+	<classpathentry kind="output" path="Animal/bin"/>
+</classpath>
